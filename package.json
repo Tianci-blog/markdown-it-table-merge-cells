@@ -1,0 +1,25 @@
+{
+  "name": "markdown-it-table-merge-cells",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Table syntax plugin for markdown-it markdown parser",
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "markdown",
+    "markdown-it-table-merge-cells",
+    "table"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tianci-blog/markdown-it-table-merge-cells.git"
+  },
+  "author": "itianci",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "markdown-it": "^14.1.0"
+  }
+}
