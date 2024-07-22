@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-table-merge-cells",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "description": "Table syntax plugin for markdown-it markdown parser",
   "keywords": [

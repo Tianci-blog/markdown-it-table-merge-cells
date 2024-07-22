@@ -2,7 +2,7 @@
  * @Author: tianci
  * @Date: 2024-07-16 11:00:48
  * @LastEditors: tianci
- * @LastEditTime: 2024-07-22 15:12:54
+ * @LastEditTime: 2024-07-22 16:48:29
  * @FilePath: \markdown-it-table-merge-cells\test\test.js
  */
 const MarkdownIt = require("markdown-it");
@@ -36,9 +36,10 @@ Markdown 编辑器，vue3 版本，使用 jsx 模板 和 typescript 开发，支
 
 ## 📈 表格演示
 
-| 表头1  |  表头2   |  表头3 |
-| :----- | :------: | -----: |
-| 左对齐 | 中间对齐 | 右对齐 |
+| col | col | col |
+| - | - | - |
+| content | == | content |
+| content | == | content |
 
 ## 📏 公式
 
@@ -49,10 +50,10 @@ $$
 $$
 
 ## 🧬 图表
-|   col   |  3col   |   ==    |  ==  |
-| :-----: | :-----: | :-----: | :--: |
-|  2row   |  2col   |   ==    | 3row |
-|   ^^    | content | content |  ^^  |
-| content | content | content |  ^^  |
+  |  4col   |   ==    |  ==  |
+  | :-----: | :-----: | :--: |
+  | content | content | 3row |
+  | content | content |  ^^  |
+  | content | content |  ^^  |
 `)
 );
