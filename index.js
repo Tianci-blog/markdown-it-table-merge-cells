@@ -1,138 +1,105 @@
-const _0x5ac87f = _0x1696;
-function _0x3830() {
-  const _0x1756bd = [
-    "49114puEnnU",
-    "content",
-    "inline",
-    "tr_open",
-    "length",
-    "2882270PzKgps",
-    "core",
-    "rowspan",
-    "tr_close",
-    "hidden",
-    "1070eqBJsd",
-    "colspan",
-    "exports",
-    "children",
-    "244395QszXEd",
-    "9sHCdur",
-    "push",
-    "type",
-    "1219269ABlhLi",
-    "4TFLZDB",
-    "th_open",
-    "6205968JxJToW",
-    "tokens",
-    "trim",
-    "242184iXYiSM",
-    "attrSet",
-    "custom_table_process",
-    "4234762HqClnA",
-  ];
-  _0x3830 = function () {
-    return _0x1756bd;
-  };
-  return _0x3830();
-}
-(function (_0x4169f2, _0x1a7bed) {
-  const _0x228eb8 = _0x1696,
-    _0x9b6f88 = _0x4169f2();
-  while (!![]) {
-    try {
-      const _0x51e840 =
-        -parseInt(_0x228eb8(0xda)) / 0x1 +
-        (parseInt(_0x228eb8(0xe4)) / 0x2) * (-parseInt(_0x228eb8(0xd7)) / 0x3) +
-        (-parseInt(_0x228eb8(0xdb)) / 0x4) * (parseInt(_0x228eb8(0xcd)) / 0x5) +
-        -parseInt(_0x228eb8(0xdd)) / 0x6 +
-        parseInt(_0x228eb8(0xe3)) / 0x7 +
-        parseInt(_0x228eb8(0xe0)) / 0x8 +
-        (parseInt(_0x228eb8(0xd6)) / 0x9) * (parseInt(_0x228eb8(0xd2)) / 0xa);
-      if (_0x51e840 === _0x1a7bed) break;
-      else _0x9b6f88["push"](_0x9b6f88["shift"]());
-    } catch (_0x4745b1) {
-      _0x9b6f88["push"](_0x9b6f88["shift"]());
-    }
-  }
-})(_0x3830, 0x9b8ae);
-function _0x1696(_0x2425e2, _0xdb4556) {
-  const _0x383088 = _0x3830();
-  return (
-    (_0x1696 = function (_0x16965, _0x334f77) {
-      _0x16965 = _0x16965 - 0xcb;
-      let _0x31c1ab = _0x383088[_0x16965];
-      return _0x31c1ab;
-    }),
-    _0x1696(_0x2425e2, _0xdb4556)
-  );
-}
-function TableMergeCells(_0x41c282) {
-  const _0x3f8dcd = _0x1696;
-  _0x41c282[_0x3f8dcd(0xce)]["ruler"][_0x3f8dcd(0xd8)](_0x3f8dcd(0xe2), function (_0x224e48) {
-    const _0xd7054e = _0x3f8dcd,
-      _0x4da777 = _0x224e48[_0xd7054e(0xde)];
-    let _0x4280f6 = 0x0,
-      _0x49789c = 0x0;
-    for (let _0x410c8e = 0x0; _0x410c8e < _0x4da777[_0xd7054e(0xcc)]; _0x410c8e++) {
-      _0x4da777[_0x410c8e]["type"] === _0xd7054e(0xdc) && (_0x49789c += 0x1);
-    }
-    for (let _0x22d39e = 0x0; _0x22d39e < _0x4da777[_0xd7054e(0xcc)]; _0x22d39e++) {
-      const _0x277fdc = _0x4da777[_0x22d39e];
-      ++_0x4280f6;
-      if (_0x277fdc[_0xd7054e(0xd9)] === _0xd7054e(0xcb)) _0x4280f6 = 0x1;
-      else {
-        if (_0x4280f6 && _0x277fdc[_0xd7054e(0xd9)] === _0xd7054e(0xe6) && _0x277fdc["content"]["trim"]() === "==") {
-          (_0x4da777[_0x22d39e]["content"] = ""),
-            (_0x4da777[_0x22d39e]["children"] = ""),
-            (_0x4da777[_0x22d39e][_0xd7054e(0xd1)] = !![]),
-            (_0x4da777[_0x22d39e - 0x1][_0xd7054e(0xd1)] = !![]),
-            (_0x4da777[_0x22d39e + 0x1]["hidden"] = !![]);
-          const _0x38c303 = _0x22d39e - _0x49789c;
-          findLastCol(_0x38c303, _0x4da777, _0x22d39e, _0x49789c);
+/*
+ * @Author: tianci
+ * @Date: 2024-07-19 10:30:08
+ * @LastEditors: tianci
+ * @LastEditTime: 2024-07-22 15:12:34
+ * @FilePath: \markdown-it-table-merge-cells\index.js
+ */
+function TableMergeCells(_0x39a5d5) {
+  _0x39a5d5["\u0063\u006f\u0072\u0065"]["\u0072\u0075\u006c\u0065\u0072"]["\u0070\u0075\u0073\u0068"](
+    "selur_elbat_motsuc".split("").reverse().join(""),
+    function (_0x29414b) {
+      function _0x36c8b0(_0x2643f7, _0x4f75aa) {
+        if (_0x2643f7[_0x4f75aa]["\u0074\u0079\u0070\u0065"] === "esolc_daeht".split("").reverse().join("")) {
+          _0x554bbc = ![];
+          return 0x48cea ^ 0x48cea;
         } else {
-          if (_0x4280f6 && _0x277fdc[_0xd7054e(0xd9)] === _0xd7054e(0xe6) && _0x277fdc["content"]["trim"]() === "^^") {
-            const _0x540d37 = _0x22d39e - (0x3 * _0x49789c + 0x3);
-            (_0x4da777[_0x22d39e][_0xd7054e(0xe5)] = ""),
-              (_0x4da777[_0x22d39e][_0xd7054e(0xd5)] = ""),
-              (_0x4da777[_0x22d39e][_0xd7054e(0xd1)] = !![]),
-              (_0x4da777[_0x22d39e - 0x1][_0xd7054e(0xd1)] = !![]),
-              (_0x4da777[_0x22d39e + 0x1][_0xd7054e(0xd1)] = !![]),
-              findLastRow(_0x540d37, _0x4da777, _0x22d39e, _0x49789c);
-          } else {
-            if (_0x4280f6 && _0x277fdc[_0xd7054e(0xd9)] === _0xd7054e(0xe6) && _0x277fdc[_0xd7054e(0xd9)] !== "tr_close") {
-            } else _0x277fdc["type"] === _0xd7054e(0xd0) && (_0x4280f6 = 0x0);
+          _0x2643f7[_0x4f75aa]["\u0074\u0079\u0070\u0065"] === "nepo_ht".split("").reverse().join("") && _0x452838++;
+          return _0x36c8b0(_0x2643f7, ++_0x4f75aa);
+        }
+      }
+      const _0x298000 = _0x29414b["\u0074\u006f\u006b\u0065\u006e\u0073"];
+      let _0x5915db = 0x5200a ^ 0x5200a;
+      let _0x452838 = 0x4368a ^ 0x4368a;
+      let _0x3112ad = ![];
+      let _0x554bbc = ![];
+      for (let _0x4c5a48 = 0x97876 ^ 0x97876; _0x4c5a48 < _0x298000["\u006c\u0065\u006e\u0067\u0074\u0068"]; _0x4c5a48++) {
+        const _0x56c9d1 = _0x298000[_0x4c5a48];
+        if (_0x56c9d1["type"] === "\u0074\u0061\u0062\u006c\u0065\u005f\u006f\u0070\u0065\u006e") {
+          _0x3112ad = !![];
+          _0x554bbc = !![];
+          _0x452838 = 0x2bc50 ^ 0x2bc50;
+          console["log"]("--\u59CB\u5F00--\u683C\u8868".split("").reverse().join(""), _0x56c9d1["\u0063\u006f\u006e\u0074\u0065\u006e\u0074"]);
+          continue;
+        }
+        if (_0x554bbc) _0x36c8b0(_0x298000, _0x4c5a48);
+        if (_0x56c9d1["type"] === "esolc_elbat".split("").reverse().join("")) {
+          _0x3112ad = ![];
+          _0x452838 = 0xb0970 ^ 0xb0970;
+          console["log"]("--\u675F\u7ED3--\u683C\u8868".split("").reverse().join(""), _0x56c9d1["content"]);
+          continue;
+        }
+        if (_0x3112ad) {
+          ++_0x5915db;
+          if (_0x56c9d1["\u0074\u0079\u0070\u0065"] === "nepo_rt".split("").reverse().join("")) {
+            _0x5915db = 0xc1e57 ^ 0xc1e56;
+          } else if (
+            _0x5915db &&
+            _0x56c9d1["\u0074\u0079\u0070\u0065"] === "enilni".split("").reverse().join("") &&
+            _0x56c9d1["\u0063\u006f\u006e\u0074\u0065\u006e\u0074"]["\u0074\u0072\u0069\u006d"]() === "==".split("").reverse().join("")
+          ) {
+            _0x298000[_0x4c5a48]["\u0063\u006f\u006e\u0074\u0065\u006e\u0074"] = "".split("").reverse().join("");
+            _0x298000[_0x4c5a48]["children"] = "".split("").reverse().join("");
+            _0x298000[_0x4c5a48]["hidden"] = !![];
+            _0x298000[_0x4c5a48 - (0x783af ^ 0x783ae)]["\u0068\u0069\u0064\u0064\u0065\u006e"] = !![];
+            _0x298000[_0x4c5a48 + (0x547de ^ 0x547df)]["\u0068\u0069\u0064\u0064\u0065\u006e"] = !![];
+            const _0x4864c2 = _0x4c5a48 - _0x452838;
+            findLastCol(_0x4864c2, _0x298000, _0x4c5a48, _0x452838);
+          } else if (
+            _0x5915db &&
+            _0x56c9d1["type"] === "enilni".split("").reverse().join("") &&
+            _0x56c9d1["\u0063\u006f\u006e\u0074\u0065\u006e\u0074"]["trim"]() === "\u005e\u005e"
+          ) {
+            const _0x57a122 = _0x4c5a48 - ((0xeddb5 ^ 0xeddb6) * _0x452838 + 0x3);
+            _0x298000[_0x4c5a48]["content"] = "";
+            _0x298000[_0x4c5a48]["\u0063\u0068\u0069\u006c\u0064\u0072\u0065\u006e"] = "";
+            _0x298000[_0x4c5a48]["\u0068\u0069\u0064\u0064\u0065\u006e"] = !![];
+            _0x298000[_0x4c5a48 - 0x1]["\u0068\u0069\u0064\u0064\u0065\u006e"] = !![];
+            _0x298000[_0x4c5a48 + (0xaf326 ^ 0xaf327)]["\u0068\u0069\u0064\u0064\u0065\u006e"] = !![];
+            findLastRow(_0x57a122, _0x298000, _0x4c5a48, _0x452838);
+          } else if (_0x5915db && _0x56c9d1["type"] === "inline" && _0x56c9d1["type"] !== "tr_close") {
+          } else if (_0x56c9d1["type"] === "tr_close") {
+            _0x5915db = 0x0;
           }
         }
       }
     }
-  });
+  );
 }
-const findLastCol = (_0x429fcb, _0x378dae, _0x20bfcf, _0x51e805, _0x26810b = 0x1, _0x44adee = 0x2) => {
-    const _0x20bd8b = _0x1696;
-    let _0x4e1f9f = _0x20bfcf + _0x51e805 * _0x26810b - _0x26810b;
-    if (_0x378dae[_0x4e1f9f]?.[_0x20bd8b(0xe5)][_0x20bd8b(0xdf)]() === "==")
-      return (
-        (_0x378dae[_0x4e1f9f][_0x20bd8b(0xe5)] = ""),
-        (_0x378dae[_0x4e1f9f][_0x20bd8b(0xd5)] = ""),
-        (_0x378dae[_0x4e1f9f][_0x20bd8b(0xd1)] = !![]),
-        (_0x378dae[_0x4e1f9f - 0x1][_0x20bd8b(0xd1)] = !![]),
-        (_0x378dae[_0x4e1f9f + 0x1][_0x20bd8b(0xd1)] = !![]),
-        findLastCol(_0x429fcb, _0x378dae, _0x20bfcf, _0x51e805, ++_0x26810b, ++_0x44adee)
-      );
-    else _0x378dae[_0x429fcb][_0x20bd8b(0xe1)](_0x20bd8b(0xd3), _0x44adee);
-  },
-  findLastRow = (_0x506311, _0x8f3fa7, _0x4931d2, _0x441811, _0x245002 = 0x1, _0x2e4241 = 0x2) => {
-    const _0x4b6db3 = _0x1696;
-    let _0x5f3de5 = _0x4931d2 + (0x3 * _0x441811 + 0x2) * _0x245002;
-    if (_0x8f3fa7[_0x5f3de5]?.["content"][_0x4b6db3(0xdf)]() === "^^")
-      return (
-        (_0x8f3fa7[_0x5f3de5][_0x4b6db3(0xe5)] = ""),
-        (_0x8f3fa7[_0x5f3de5][_0x4b6db3(0xd5)] = ""),
-        (_0x8f3fa7[_0x5f3de5][_0x4b6db3(0xd1)] = !![]),
-        (_0x8f3fa7[_0x5f3de5 - 0x1][_0x4b6db3(0xd1)] = !![]),
-        (_0x8f3fa7[_0x5f3de5 + 0x1][_0x4b6db3(0xd1)] = !![]),
-        findLastRow(_0x506311, _0x8f3fa7, _0x4931d2, _0x441811, ++_0x245002, ++_0x2e4241)
-      );
-    else _0x8f3fa7[_0x506311][_0x4b6db3(0xe1)](_0x4b6db3(0xcf), _0x2e4241);
-  };
-module[_0x5ac87f(0xd4)] = TableMergeCells;
+const findLastCol = (_0x3b84f, _0x397a29, _0x5af7e4, _0x3b968e, _0x590ff8 = 0x1, _0x5f0cdc = 0x5b4f2 ^ 0x5b4f0) => {
+  let _0x3ccbef = _0x5af7e4 + _0x3b968e * _0x590ff8 - _0x590ff8;
+  if (_0x397a29[_0x3ccbef]?.["\u0063\u006f\u006e\u0074\u0065\u006e\u0074"]["\u0074\u0072\u0069\u006d"]() === "==") {
+    _0x397a29[_0x3ccbef]["content"] = "";
+    _0x397a29[_0x3ccbef]["children"] = "";
+    _0x397a29[_0x3ccbef]["hidden"] = !![];
+    _0x397a29[_0x3ccbef - (0x89d22 ^ 0x89d23)]["\u0068\u0069\u0064\u0064\u0065\u006e"] = !![];
+    _0x397a29[_0x3ccbef + 0x1]["hidden"] = !![];
+    return findLastCol(_0x3b84f, _0x397a29, _0x5af7e4, _0x3b968e, ++_0x590ff8, ++_0x5f0cdc);
+  } else {
+    _0x397a29[_0x3b84f]["\u0061\u0074\u0074\u0072\u0053\u0065\u0074"]("\u0063\u006f\u006c\u0073\u0070\u0061\u006e", _0x5f0cdc);
+  }
+};
+const findLastRow = (_0x1cc32b, _0x3f42a9, _0x246fd3, _0x37fd2a, _0x9b74c7 = 0x1, _0x5c8a95 = 0x2) => {
+  let _0x40e356 = _0x246fd3 + ((0x5f9a1 ^ 0x5f9a2) * _0x37fd2a + (0x574d0 ^ 0x574d2)) * _0x9b74c7;
+  if (_0x3f42a9[_0x40e356]?.["content"]["trim"]() === "^^".split("").reverse().join("")) {
+    _0x3f42a9[_0x40e356]["\u0063\u006f\u006e\u0074\u0065\u006e\u0074"] = "";
+    _0x3f42a9[_0x40e356]["children"] = "".split("").reverse().join("");
+    _0x3f42a9[_0x40e356]["\u0068\u0069\u0064\u0064\u0065\u006e"] = !![];
+    _0x3f42a9[_0x40e356 - 0x1]["\u0068\u0069\u0064\u0064\u0065\u006e"] = !![];
+    _0x3f42a9[_0x40e356 + (0x30062 ^ 0x30063)]["\u0068\u0069\u0064\u0064\u0065\u006e"] = !![];
+    return findLastRow(_0x1cc32b, _0x3f42a9, _0x246fd3, _0x37fd2a, ++_0x9b74c7, ++_0x5c8a95);
+  } else {
+    _0x3f42a9[_0x1cc32b]["\u0061\u0074\u0074\u0072\u0053\u0065\u0074"]("rowspan", _0x5c8a95);
+  }
+};
+module["\u0065\u0078\u0070\u006f\u0072\u0074\u0073"] = TableMergeCells;
