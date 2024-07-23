@@ -6,7 +6,7 @@
  * @FilePath: \markdown-it-table-merge-cells\README.md
 -->
 
-![](https://img.shields.io/github/license/Tianci-blog/markdown-it-table-merge-cells)
+![](https://img.shields.io/github/license/Tianci-blog/markdown-it-table-merge-cells)  ![](https://img.shields.io/github/package-json/v/Tianci-blog/markdown-it-table-merge-cells)  ![](https://img.shields.io/npm/dm/markdown-it-table-merge-cells)
 
 # markdown-it-table-merge-cells
 
