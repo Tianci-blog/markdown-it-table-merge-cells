@@ -6,6 +6,8 @@
  * @FilePath: \markdown-it-table-merge-cells\README.md
 -->
 
+![](https://img.shields.io/github/license/Tianci-blog/markdown-it-table-merge-cells)
+
 # markdown-it-table-merge-cells
 
 - PS：`markdown-it-multimd-table-extra`包改名为`markdown-it-table-merge-cells`
