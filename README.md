@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/github/license/Tianci-blog/markdown-it-table-merge-cells)  ![](https://img.shields.io/github/package-json/v/Tianci-blog/markdown-it-table-merge-cells)  ![](https://img.shields.io/npm/dm/markdown-it-table-merge-cells)
 
-# markdown-it-table-merge-cells
+# ✨ markdown-it-table-merge-cells
 
 - 🦖 PS：`markdown-it-multimd-table-extra`包改名为`markdown-it-table-merge-cells`
 - 🦖 PS: `markdown-it-multimd-table-extra` package was renamed as `markdown-it-table-merge-cells`.
@@ -21,7 +21,7 @@
 - 🦞 Because `markdown-it-multimd-table` is not supported with `prettier` formatting, making it less readable and maintainable, so I wrote my own.
 - 🦈 Any `markdown` editor that uses `markdown-it` as the parser can use this plugin to extend the table syntax as long as the editor supports configuration.
 
-## Usage
+## 🐸 Usage
 
 ```js
 npm i markdown-it -D
