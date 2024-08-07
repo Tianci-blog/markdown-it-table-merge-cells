@@ -1,21 +1,16 @@
-<!--
- * @Author: tianci
- * @Date: 2024-07-19 10:30:08
- * @LastEditors: tianci
- * @LastEditTime: 2024-08-07 15:29:40
- * @FilePath: \markdown-it-table-merge-cells\README.md
--->
-# markdown-it-table-merge-cells
+![](https://img.shields.io/github/license/Tianci-blog/markdown-it-table-merge-cells) ![](https://img.shields.io/github/package-json/v/Tianci-blog/markdown-it-table-merge-cells) ![](https://img.shields.io/npm/dm/markdown-it-table-merge-cells)
 
-- `markdown-it` 增强辅助类表格语法插件(目前只支持列合并和行合并。后面会考虑加入行列合并。)
-- 由于`markdown-it-multimd-table`不支持配合`prettier`格式化一起使用，可读性和可维护性就比较差，因此我自己写一个。
-- 凡是用`markdown-it`作为解析器的`markdown`编辑器，只要该编辑器支持配置即可使用此插件扩展表格语法。
+# ✨ markdown-it-table-merge-cells
 
-- `markdown-it` enhanced auxiliary class table syntax plug-in (Currently, only column merging and row merging are supported. Will consider joining the column merge later.)
-- Because `markdown-it-multimd-table` is not supported with `prettier` formatting, making it less readable and maintainable, so I wrote my own.
-- Any `markdown` editor that uses `markdown-it` as the parser can use this plugin to extend the table syntax as long as the editor supports configuration.
+- 🦜 `markdown-it` 增强辅助类表格语法插件(目前只支持列合并和行合并。后面会考虑加入行列合并。)
+- 🦞 由于`markdown-it-multimd-table`不支持配合`prettier`格式化一起使用，可读性和可维护性就比较差，因此我自己写一个。
+- 🦈 凡是用`markdown-it`作为解析器的`markdown`编辑器，只要该编辑器支持配置即可使用此插件扩展表格语法。
 
-## Usage
+- 🦜 `markdown-it` enhanced auxiliary class table syntax plug-in (Currently, only column merging and row merging are supported. Will consider joining the column merge later.)
+- 🦞 Because `markdown-it-multimd-table` is not supported with `prettier` formatting, making it less readable and maintainable, so I wrote my own.
+- 🦈 Any `markdown` editor that uses `markdown-it` as the parser can use this plugin to extend the table syntax as long as the editor supports configuration.
+
+## 🐸 Usage
 
 ```js
 npm i markdown-it -D
