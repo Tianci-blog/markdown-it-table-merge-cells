@@ -1,15 +1,11 @@
 <!--
  * @Author: tianci
- * @Date: 2024-07-17 10:20:27
+ * @Date: 2024-07-19 10:30:08
  * @LastEditors: tianci
- * @LastEditTime: 2024-07-19 10:37:57
+ * @LastEditTime: 2024-08-07 15:29:40
  * @FilePath: \markdown-it-table-merge-cells\README.md
 -->
-
 # markdown-it-table-merge-cells
-
-- PS：`markdown-it-multimd-table-extra`包改名为`markdown-it-table-merge-cells`
-- PS: `markdown-it-multimd-table-extra` package was renamed as `markdown-it-table-merge-cells`.
 
 - `markdown-it` 增强辅助类表格语法插件(目前只支持列合并和行合并。后面会考虑加入行列合并。)
 - 由于`markdown-it-multimd-table`不支持配合`prettier`格式化一起使用，可读性和可维护性就比较差，因此我自己写一个。
